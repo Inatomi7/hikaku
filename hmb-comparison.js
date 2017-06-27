@@ -15,10 +15,10 @@ angular.module('app', ['ui.bootstrap','ngAnimate','chart.js'])
 
 
     $scope.subject_info = {
-            name:'ina-ho-live',
-            address:'〒812-0017 福岡県福岡市博多区美野島1丁目4-27 704',
-            tel:'080-5254-1703',
-            mail:'kirisima.kuro@gmail.com'
+            name:'test',
+            address:'住所',
+            tel:'電話番号',
+            mail:'メールアドレス'
     }
 
 
